@@ -538,7 +538,9 @@ When the extension is successfully installed, it is displayed as an option in th
 
 Watch the below video for a quick demonstration of how the CircuitVerse Chrome extension works in Google Slides.
 
-[insert embed video]
+<div>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/eOf0XAxLz7Y?si=SXDtbPGyZhe8Atww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div><iframe></iframe></div>
 
