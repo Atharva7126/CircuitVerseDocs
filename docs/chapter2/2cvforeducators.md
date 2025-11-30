@@ -542,8 +542,6 @@ Watch the below video for a quick demonstration of how the CircuitVerse Chrome e
    <iframe width="560" height="315" src="https://www.youtube.com/embed/eOf0XAxLz7Y?si=SXDtbPGyZhe8Atww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div><iframe></iframe></div>
-
 ## Download Image
 
 CircuitVerse offers different options for downloading images in different formats and resolutions for reuse across different documentation projects (refer to Figure 2.51). Table 2.5 shares a brief description of the different image formats supported within CircuitVerse.
